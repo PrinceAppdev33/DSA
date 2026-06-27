@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrinceAppdev33/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -18,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrinceAppdev33/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
