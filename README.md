@@ -6,6 +6,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrinceAppdev33/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -24,6 +25,7 @@
 | [1288-remove-covered-intervals](https://github.com/PrinceAppdev33/DSA/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrinceAppdev33/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrinceAppdev33/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -117,8 +119,14 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrinceAppdev33/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrinceAppdev33/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
