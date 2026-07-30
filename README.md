@@ -15,12 +15,14 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrinceAppdev33/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrinceAppdev33/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrinceAppdev33/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
