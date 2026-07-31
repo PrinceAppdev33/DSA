@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0110-balanced-binary-tree) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PrinceAppdev33/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0110-balanced-binary-tree) |
@@ -105,6 +108,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrinceAppdev33/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
