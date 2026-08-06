@@ -8,6 +8,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrinceAppdev33/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/PrinceAppdev33/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrinceAppdev33/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -21,6 +22,7 @@
 | [1406-stone-game-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrinceAppdev33/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrinceAppdev33/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrinceAppdev33/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrinceAppdev33/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -42,6 +44,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/PrinceAppdev33/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3169-count-days-without-meetings](https://github.com/PrinceAppdev33/DSA/tree/master/3169-count-days-without-meetings) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrinceAppdev33/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3457-eat-pizzas](https://github.com/PrinceAppdev33/DSA/tree/master/3457-eat-pizzas) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrinceAppdev33/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
