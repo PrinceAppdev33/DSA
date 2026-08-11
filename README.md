@@ -40,6 +40,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/PrinceAppdev33/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PrinceAppdev33/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PrinceAppdev33/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/PrinceAppdev33/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PrinceAppdev33/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrinceAppdev33/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
