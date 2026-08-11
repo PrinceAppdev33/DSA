@@ -44,6 +44,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PrinceAppdev33/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3174-clear-digits](https://github.com/PrinceAppdev33/DSA/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrinceAppdev33/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -110,6 +111,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [3174-clear-digits](https://github.com/PrinceAppdev33/DSA/tree/master/3174-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -282,4 +284,8 @@
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/PrinceAppdev33/DSA/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
