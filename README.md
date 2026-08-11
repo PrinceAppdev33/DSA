@@ -40,6 +40,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1417-reformat-the-string](https://github.com/PrinceAppdev33/DSA/tree/master/1417-reformat-the-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PrinceAppdev33/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PrinceAppdev33/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
