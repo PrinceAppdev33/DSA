@@ -78,6 +78,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrinceAppdev33/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrinceAppdev33/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/PrinceAppdev33/DSA/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3457-eat-pizzas](https://github.com/PrinceAppdev33/DSA/tree/master/3457-eat-pizzas) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/PrinceAppdev33/DSA/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Sorting
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [3169-count-days-without-meetings](https://github.com/PrinceAppdev33/DSA/tree/master/3169-count-days-without-meetings) |
 | [3457-eat-pizzas](https://github.com/PrinceAppdev33/DSA/tree/master/3457-eat-pizzas) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/PrinceAppdev33/DSA/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Union-Find
 |  |
 | ------- |
