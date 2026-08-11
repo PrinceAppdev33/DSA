@@ -8,6 +8,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/PrinceAppdev33/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PrinceAppdev33/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PrinceAppdev33/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2748-number-of-beautiful-pairs) |
@@ -41,6 +42,7 @@
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1417-reformat-the-string](https://github.com/PrinceAppdev33/DSA/tree/master/1417-reformat-the-string) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/PrinceAppdev33/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PrinceAppdev33/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PrinceAppdev33/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
