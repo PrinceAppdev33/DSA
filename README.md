@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrinceAppdev33/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
+| [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PrinceAppdev33/DSA/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/PrinceAppdev33/DSA/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/PrinceAppdev33/DSA/tree/master/1288-remove-covered-intervals) |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrinceAppdev33/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrinceAppdev33/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrinceAppdev33/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
