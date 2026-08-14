@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PrinceAppdev33/DSA/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/PrinceAppdev33/DSA/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/PrinceAppdev33/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -117,6 +118,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/PrinceAppdev33/DSA/tree/master/1140-stone-game-ii) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/PrinceAppdev33/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2121-intervals-between-identical-elements](https://github.com/PrinceAppdev33/DSA/tree/master/2121-intervals-between-identical-elements) |
@@ -251,6 +253,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -313,6 +316,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrinceAppdev33/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrinceAppdev33/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrinceAppdev33/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
