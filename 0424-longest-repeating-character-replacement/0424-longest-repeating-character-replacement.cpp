@@ -6,7 +6,7 @@ public:
         for(int i=0;i<n;i++){
             mpp[s[i]]++;
             mx = max(mx,mpp[s[i]]);
-            while((i-l+1) - mx > k){
+            if((i-l+1) - mx > k){
                 mpp[s[l]]--;
                 l++;
             }
