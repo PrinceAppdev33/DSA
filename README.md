@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrinceAppdev33/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrinceAppdev33/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrinceAppdev33/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrinceAppdev33/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1417-reformat-the-string](https://github.com/PrinceAppdev33/DSA/tree/master/1417-reformat-the-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/PrinceAppdev33/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -318,6 +320,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrinceAppdev33/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrinceAppdev33/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrinceAppdev33/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
