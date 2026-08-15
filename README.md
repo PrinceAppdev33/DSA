@@ -23,6 +23,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrinceAppdev33/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrinceAppdev33/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/PrinceAppdev33/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrinceAppdev33/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -92,6 +93,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3169-count-days-without-meetings](https://github.com/PrinceAppdev33/DSA/tree/master/3169-count-days-without-meetings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrinceAppdev33/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3457-eat-pizzas](https://github.com/PrinceAppdev33/DSA/tree/master/3457-eat-pizzas) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrinceAppdev33/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -124,6 +126,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/PrinceAppdev33/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PrinceAppdev33/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2748-number-of-beautiful-pairs) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrinceAppdev33/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrinceAppdev33/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -215,6 +218,7 @@
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrinceAppdev33/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
