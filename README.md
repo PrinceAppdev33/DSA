@@ -38,6 +38,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/PrinceAppdev33/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrinceAppdev33/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2578-split-with-minimum-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2578-split-with-minimum-sum) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrinceAppdev33/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -230,6 +231,7 @@
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/PrinceAppdev33/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrinceAppdev33/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1936-add-minimum-number-of-rungs](https://github.com/PrinceAppdev33/DSA/tree/master/1936-add-minimum-number-of-rungs) |
+| [2578-split-with-minimum-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrinceAppdev33/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -245,6 +247,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrinceAppdev33/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2578-split-with-minimum-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2578-split-with-minimum-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrinceAppdev33/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3169-count-days-without-meetings](https://github.com/PrinceAppdev33/DSA/tree/master/3169-count-days-without-meetings) |
