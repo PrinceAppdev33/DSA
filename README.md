@@ -38,6 +38,7 @@
 | [1140-stone-game-ii](https://github.com/PrinceAppdev33/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrinceAppdev33/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/PrinceAppdev33/DSA/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrinceAppdev33/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PrinceAppdev33/DSA/tree/master/2029-stone-game-ix) |
 | [2578-split-with-minimum-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2578-split-with-minimum-sum) |
@@ -83,6 +84,7 @@
 | [1406-stone-game-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrinceAppdev33/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/PrinceAppdev33/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1563-stone-game-v](https://github.com/PrinceAppdev33/DSA/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrinceAppdev33/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1936-add-minimum-number-of-rungs](https://github.com/PrinceAppdev33/DSA/tree/master/1936-add-minimum-number-of-rungs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrinceAppdev33/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -231,6 +233,7 @@
 | [0877-stone-game](https://github.com/PrinceAppdev33/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PrinceAppdev33/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/PrinceAppdev33/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrinceAppdev33/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -307,6 +310,7 @@
 | [0877-stone-game](https://github.com/PrinceAppdev33/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PrinceAppdev33/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/PrinceAppdev33/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/PrinceAppdev33/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
