@@ -170,6 +170,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PrinceAppdev33/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/PrinceAppdev33/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -209,6 +210,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PrinceAppdev33/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/PrinceAppdev33/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -293,6 +295,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PrinceAppdev33/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -305,6 +308,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PrinceAppdev33/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrinceAppdev33/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
