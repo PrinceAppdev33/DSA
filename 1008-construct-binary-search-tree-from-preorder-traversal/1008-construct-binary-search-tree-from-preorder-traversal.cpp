@@ -12,19 +12,14 @@
 class Solution {
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int>inorder = preorder;
-        sort(inorder.begin(),inorder.end());
-        map<int,int>mpp;
-        for(int i=0;i<inorder.size();i++) mpp[inorder[i]] = i;
-        return helper(preorder,0,preorder.size()-1,inorder,0,inorder.size()-1,mpp);
+        int i=0;
+        return helper(preorder,i,INT_MAX);
     }
-    TreeNode* helper(vector<int>& preorder, int prestart, int preend, vector<int>& inorder, int instart, int inend, map<int,int>&mpp){
-        if(prestart > preend || instart > inend) return NULL;
-        TreeNode* root = new TreeNode(preorder[prestart]);
-        int inroot = mpp[root->val];
-        int numsleft = inroot - instart;
-        if(numsleft > 0) root->left = helper(preorder,prestart+1,prestart+numsleft,inorder,instart,inroot-1,mpp);
-        if(numsleft < preend - prestart) root->right = helper(preorder,prestart+numsleft+1,preend,inorder,inroot+1,inend,mpp);
-        return root;
+    TreeNode* helper(vector<int>& arr, int& i, int bound){
+        if(i == arr.size() || arr[i] > bound) return NULL;
+        TreeNode* node = new TreeNode(arr[i++]);
+        node->left = helper(arr,i,node->val);
+        node->right = helper(arr,i,bound);
+        return node;
     }
 };
