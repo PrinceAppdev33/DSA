@@ -111,6 +111,7 @@
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrinceAppdev33/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2748-number-of-beautiful-pairs) |
+| [2765-longest-alternating-subarray](https://github.com/PrinceAppdev33/DSA/tree/master/2765-longest-alternating-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrinceAppdev33/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -293,6 +294,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2765-longest-alternating-subarray](https://github.com/PrinceAppdev33/DSA/tree/master/2765-longest-alternating-subarray) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrinceAppdev33/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/3371-identify-the-largest-outlier-in-an-array) |
