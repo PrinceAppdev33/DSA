@@ -10,6 +10,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrinceAppdev33/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0748-shortest-completing-word](https://github.com/PrinceAppdev33/DSA/tree/master/0748-shortest-completing-word) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -61,6 +62,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrinceAppdev33/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrinceAppdev33/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0748-shortest-completing-word](https://github.com/PrinceAppdev33/DSA/tree/master/0748-shortest-completing-word) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1417-reformat-the-string](https://github.com/PrinceAppdev33/DSA/tree/master/1417-reformat-the-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/PrinceAppdev33/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -81,6 +83,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0748-shortest-completing-word](https://github.com/PrinceAppdev33/DSA/tree/master/0748-shortest-completing-word) |
 | [0877-stone-game](https://github.com/PrinceAppdev33/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
