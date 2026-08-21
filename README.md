@@ -12,6 +12,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0748-shortest-completing-word](https://github.com/PrinceAppdev33/DSA/tree/master/0748-shortest-completing-word) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrinceAppdev33/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -87,6 +88,7 @@
 | [0766-toeplitz-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/PrinceAppdev33/DSA/tree/master/0877-stone-game) |
+| [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -324,6 +326,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/PrinceAppdev33/DSA/tree/master/1288-remove-covered-intervals) |
@@ -355,6 +358,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PrinceAppdev33/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PrinceAppdev33/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
