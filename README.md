@@ -11,6 +11,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/PrinceAppdev33/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0748-shortest-completing-word](https://github.com/PrinceAppdev33/DSA/tree/master/0748-shortest-completing-word) |
+| [0763-partition-labels](https://github.com/PrinceAppdev33/DSA/tree/master/0763-partition-labels) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
@@ -67,6 +68,7 @@
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrinceAppdev33/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0748-shortest-completing-word](https://github.com/PrinceAppdev33/DSA/tree/master/0748-shortest-completing-word) |
+| [0763-partition-labels](https://github.com/PrinceAppdev33/DSA/tree/master/0763-partition-labels) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1417-reformat-the-string](https://github.com/PrinceAppdev33/DSA/tree/master/1417-reformat-the-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/PrinceAppdev33/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -319,6 +321,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/PrinceAppdev33/DSA/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
 | [1386-cinema-seat-allocation](https://github.com/PrinceAppdev33/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/PrinceAppdev33/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -376,6 +379,7 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/PrinceAppdev33/DSA/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrinceAppdev33/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
