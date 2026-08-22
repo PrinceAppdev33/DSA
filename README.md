@@ -56,6 +56,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrinceAppdev33/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrinceAppdev33/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrinceAppdev33/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
