@@ -1,31 +1,39 @@
 class Solution {
 public:
-    void solve(TreeNode* root, int x, int dep, int &ansDep, int &parent) {
-        if (!root) return;
-
-        if (root->left && root->left->val == x) {
-            ansDep = dep + 1;
-            parent = root->val;
-            return;
-        }
-
-        if (root->right && root->right->val == x) {
-            ansDep = dep + 1;
-            parent = root->val;
-            return;
-        }
-
-        solve(root->left, x, dep + 1, ansDep, parent);
-        solve(root->right, x, dep + 1, ansDep, parent);
-    }
-
     bool isCousins(TreeNode* root, int x, int y) {
-        int dep1 = -1, dep2 = -1;
-        int parent1 = -1, parent2 = -1;
+        queue<TreeNode*> q;
+        q.push(root);
 
-        solve(root, x, 0, dep1, parent1);
-        solve(root, y, 0, dep2, parent2);
+        while (!q.empty()) {
+            int n = q.size();
+            bool foundX = false, foundY = false;
 
-        return dep1 == dep2 && parent1 != parent2;
+            while (n--) {
+                TreeNode* node = q.front();
+                q.pop();
+
+                if (node->val == x) foundX = true;
+                if (node->val == y) foundY = true;
+
+                // Same parent => not cousins
+                if (node->left && node->right) {
+                    if ((node->left->val == x && node->right->val == y) ||
+                        (node->left->val == y && node->right->val == x)) {
+                        return false;
+                    }
+                }
+
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
+            }
+
+            // Both found at same level and weren't siblings
+            if (foundX && foundY) return true;
+
+            // Only one found => different depths
+            if (foundX || foundY) return false;
+        }
+
+        return false;
     }
 };
