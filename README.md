@@ -233,6 +233,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -259,6 +260,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrinceAppdev33/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PrinceAppdev33/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -296,6 +298,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -312,6 +315,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrinceAppdev33/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PrinceAppdev33/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/PrinceAppdev33/DSA/tree/master/3310-remove-methods-from-project) |
