@@ -58,6 +58,7 @@
 | [2235-add-two-integers](https://github.com/PrinceAppdev33/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/PrinceAppdev33/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/PrinceAppdev33/DSA/tree/master/2427-number-of-common-factors) |
+| [2544-alternating-digit-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2544-alternating-digit-sum) |
 | [2578-split-with-minimum-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2578-split-with-minimum-sum) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
