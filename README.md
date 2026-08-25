@@ -68,6 +68,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrinceAppdev33/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrinceAppdev33/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PrinceAppdev33/DSA/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -94,6 +95,7 @@
 | [3223-minimum-length-of-string-after-operations](https://github.com/PrinceAppdev33/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrinceAppdev33/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PrinceAppdev33/DSA/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrinceAppdev33/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
@@ -404,6 +406,7 @@
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrinceAppdev33/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PrinceAppdev33/DSA/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -412,6 +415,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PrinceAppdev33/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrinceAppdev33/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PrinceAppdev33/DSA/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Number Theory
 |  |
 | ------- |
