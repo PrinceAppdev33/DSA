@@ -41,6 +41,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrinceAppdev33/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrinceAppdev33/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/PrinceAppdev33/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PrinceAppdev33/DSA/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrinceAppdev33/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/PrinceAppdev33/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Array
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrinceAppdev33/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/PrinceAppdev33/DSA/tree/master/3776-minimum-moves-to-balance-circular-array) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/PrinceAppdev33/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -332,6 +335,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrinceAppdev33/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/PrinceAppdev33/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
