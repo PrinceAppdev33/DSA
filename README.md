@@ -35,6 +35,7 @@
 | [3223-minimum-length-of-string-after-operations](https://github.com/PrinceAppdev33/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrinceAppdev33/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/PrinceAppdev33/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/PrinceAppdev33/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrinceAppdev33/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -100,6 +101,7 @@
 | [3223-minimum-length-of-string-after-operations](https://github.com/PrinceAppdev33/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrinceAppdev33/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/PrinceAppdev33/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PrinceAppdev33/DSA/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrinceAppdev33/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -149,6 +151,7 @@
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3457-eat-pizzas](https://github.com/PrinceAppdev33/DSA/tree/master/3457-eat-pizzas) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrinceAppdev33/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/PrinceAppdev33/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/PrinceAppdev33/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -489,6 +492,7 @@
 | [0867-transpose-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrinceAppdev33/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/PrinceAppdev33/DSA/tree/master/3174-clear-digits) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/PrinceAppdev33/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Sliding Window
 |  |
 | ------- |
