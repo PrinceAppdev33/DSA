@@ -88,6 +88,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/PrinceAppdev33/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PrinceAppdev33/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PrinceAppdev33/DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/PrinceAppdev33/DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1927-sum-game](https://github.com/PrinceAppdev33/DSA/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PrinceAppdev33/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -355,6 +356,7 @@
 | [1386-cinema-seat-allocation](https://github.com/PrinceAppdev33/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/PrinceAppdev33/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrinceAppdev33/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/PrinceAppdev33/DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1927-sum-game](https://github.com/PrinceAppdev33/DSA/tree/master/1927-sum-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/PrinceAppdev33/DSA/tree/master/1936-add-minimum-number-of-rungs) |
 | [2029-stone-game-ix](https://github.com/PrinceAppdev33/DSA/tree/master/2029-stone-game-ix) |
@@ -413,6 +415,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/PrinceAppdev33/DSA/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/PrinceAppdev33/DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrinceAppdev33/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PrinceAppdev33/DSA/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
