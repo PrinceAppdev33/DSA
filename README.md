@@ -97,6 +97,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrinceAppdev33/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrinceAppdev33/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/PrinceAppdev33/DSA/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/PrinceAppdev33/DSA/tree/master/3174-clear-digits) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/PrinceAppdev33/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrinceAppdev33/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
