@@ -26,6 +26,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/PrinceAppdev33/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/PrinceAppdev33/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2121-intervals-between-identical-elements](https://github.com/PrinceAppdev33/DSA/tree/master/2121-intervals-between-identical-elements) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/PrinceAppdev33/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PrinceAppdev33/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/PrinceAppdev33/DSA/tree/master/2404-most-frequent-even-element) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2748-number-of-beautiful-pairs) |
@@ -139,6 +140,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2029-stone-game-ix](https://github.com/PrinceAppdev33/DSA/tree/master/2029-stone-game-ix) |
 | [2121-intervals-between-identical-elements](https://github.com/PrinceAppdev33/DSA/tree/master/2121-intervals-between-identical-elements) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/PrinceAppdev33/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2404-most-frequent-even-element](https://github.com/PrinceAppdev33/DSA/tree/master/2404-most-frequent-even-element) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/PrinceAppdev33/DSA/tree/master/2733-neither-minimum-nor-maximum) |
@@ -556,6 +558,7 @@
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0867-transpose-matrix) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/PrinceAppdev33/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Euclidean Algorithm
 |  |
 | ------- |
