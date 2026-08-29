@@ -37,6 +37,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrinceAppdev33/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/PrinceAppdev33/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrinceAppdev33/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/PrinceAppdev33/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/PrinceAppdev33/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -105,6 +106,7 @@
 | [3110-score-of-a-string](https://github.com/PrinceAppdev33/DSA/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/PrinceAppdev33/DSA/tree/master/3174-clear-digits) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/PrinceAppdev33/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/PrinceAppdev33/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrinceAppdev33/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/PrinceAppdev33/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -515,6 +517,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrinceAppdev33/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrinceAppdev33/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrinceAppdev33/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/PrinceAppdev33/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Nim Game
 |  |
 | ------- |
