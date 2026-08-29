@@ -56,6 +56,7 @@
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
 | [0412-fizz-buzz](https://github.com/PrinceAppdev33/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PrinceAppdev33/DSA/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/PrinceAppdev33/DSA/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/PrinceAppdev33/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PrinceAppdev33/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrinceAppdev33/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -426,6 +427,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PrinceAppdev33/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0441-arranging-coins](https://github.com/PrinceAppdev33/DSA/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
