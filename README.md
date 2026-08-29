@@ -74,6 +74,7 @@
 | [2427-number-of-common-factors](https://github.com/PrinceAppdev33/DSA/tree/master/2427-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2544-alternating-digit-sum) |
 | [2578-split-with-minimum-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2578-split-with-minimum-sum) |
+| [2652-sum-multiples](https://github.com/PrinceAppdev33/DSA/tree/master/2652-sum-multiples) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PrinceAppdev33/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
