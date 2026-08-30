@@ -137,6 +137,7 @@
 | [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
+| [0994-rotting-oranges](https://github.com/PrinceAppdev33/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/PrinceAppdev33/DSA/tree/master/1140-stone-game-ii) |
@@ -357,6 +358,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/PrinceAppdev33/DSA/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrinceAppdev33/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PrinceAppdev33/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/PrinceAppdev33/DSA/tree/master/3310-remove-methods-from-project) |
@@ -592,6 +594,7 @@
 | [0200-number-of-islands](https://github.com/PrinceAppdev33/DSA/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/PrinceAppdev33/DSA/tree/master/0994-rotting-oranges) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/PrinceAppdev33/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Euclidean Algorithm
 |  |
