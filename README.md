@@ -155,6 +155,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrinceAppdev33/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2029-stone-game-ix](https://github.com/PrinceAppdev33/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PrinceAppdev33/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2121-intervals-between-identical-elements](https://github.com/PrinceAppdev33/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/PrinceAppdev33/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2364-count-number-of-bad-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2364-count-number-of-bad-pairs) |
@@ -395,6 +396,7 @@
 | [1927-sum-game](https://github.com/PrinceAppdev33/DSA/tree/master/1927-sum-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/PrinceAppdev33/DSA/tree/master/1936-add-minimum-number-of-rungs) |
 | [2029-stone-game-ix](https://github.com/PrinceAppdev33/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PrinceAppdev33/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2578-split-with-minimum-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrinceAppdev33/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
