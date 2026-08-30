@@ -127,6 +127,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/PrinceAppdev33/DSA/tree/master/0200-number-of-islands) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/PrinceAppdev33/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0748-shortest-completing-word](https://github.com/PrinceAppdev33/DSA/tree/master/0748-shortest-completing-word) |
@@ -287,6 +288,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PrinceAppdev33/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PrinceAppdev33/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -347,6 +349,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PrinceAppdev33/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PrinceAppdev33/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PrinceAppdev33/DSA/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -420,6 +423,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PrinceAppdev33/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PrinceAppdev33/DSA/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrinceAppdev33/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PrinceAppdev33/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -585,6 +589,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PrinceAppdev33/DSA/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0867-transpose-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/PrinceAppdev33/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
