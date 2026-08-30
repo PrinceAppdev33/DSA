@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrinceAppdev33/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/PrinceAppdev33/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/0242-valid-anagram) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrinceAppdev33/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PrinceAppdev33/DSA/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/PrinceAppdev33/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/PrinceAppdev33/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PrinceAppdev33/DSA/tree/master/0415-add-strings) |
@@ -127,6 +129,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PrinceAppdev33/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/PrinceAppdev33/DSA/tree/master/0200-number-of-islands) |
@@ -410,6 +413,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PrinceAppdev33/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
