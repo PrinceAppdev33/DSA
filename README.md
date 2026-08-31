@@ -150,6 +150,7 @@
 | [0994-rotting-oranges](https://github.com/PrinceAppdev33/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrinceAppdev33/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/PrinceAppdev33/DSA/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/PrinceAppdev33/DSA/tree/master/1140-stone-game-ii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/PrinceAppdev33/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrinceAppdev33/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -314,6 +315,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/PrinceAppdev33/DSA/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrinceAppdev33/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PrinceAppdev33/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -374,6 +376,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/PrinceAppdev33/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/PrinceAppdev33/DSA/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrinceAppdev33/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PrinceAppdev33/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/PrinceAppdev33/DSA/tree/master/3310-remove-methods-from-project) |
@@ -446,6 +449,7 @@
 | [0130-surrounded-regions](https://github.com/PrinceAppdev33/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PrinceAppdev33/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PrinceAppdev33/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/PrinceAppdev33/DSA/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrinceAppdev33/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PrinceAppdev33/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -619,6 +623,7 @@
 | [0766-toeplitz-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/PrinceAppdev33/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/PrinceAppdev33/DSA/tree/master/1020-number-of-enclaves) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/PrinceAppdev33/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Euclidean Algorithm
 |  |
