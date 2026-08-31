@@ -12,6 +12,7 @@
 | [0242-valid-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrinceAppdev33/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/PrinceAppdev33/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PrinceAppdev33/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0748-shortest-completing-word](https://github.com/PrinceAppdev33/DSA/tree/master/0748-shortest-completing-word) |
@@ -138,6 +139,7 @@
 | [0200-number-of-islands](https://github.com/PrinceAppdev33/DSA/tree/master/0200-number-of-islands) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0542-01-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/PrinceAppdev33/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PrinceAppdev33/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0624-maximum-distance-in-arrays](https://github.com/PrinceAppdev33/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0748-shortest-completing-word](https://github.com/PrinceAppdev33/DSA/tree/master/0748-shortest-completing-word) |
@@ -217,6 +219,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/PrinceAppdev33/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1399-count-largest-group](https://github.com/PrinceAppdev33/DSA/tree/master/1399-count-largest-group) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PrinceAppdev33/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -429,6 +432,7 @@
 | [0049-group-anagrams](https://github.com/PrinceAppdev33/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/PrinceAppdev33/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -562,6 +566,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrinceAppdev33/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrinceAppdev33/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/PrinceAppdev33/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/PrinceAppdev33/DSA/tree/master/1052-grumpy-bookstore-owner) |
