@@ -38,6 +38,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/PrinceAppdev33/DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrinceAppdev33/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PrinceAppdev33/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrinceAppdev33/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrinceAppdev33/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -113,6 +114,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PrinceAppdev33/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrinceAppdev33/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PrinceAppdev33/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrinceAppdev33/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrinceAppdev33/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/PrinceAppdev33/DSA/tree/master/3110-score-of-a-string) |
@@ -219,6 +221,7 @@
 | [2364-count-number-of-bad-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/PrinceAppdev33/DSA/tree/master/2404-most-frequent-even-element) |
 | [2748-number-of-beautiful-pairs](https://github.com/PrinceAppdev33/DSA/tree/master/2748-number-of-beautiful-pairs) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PrinceAppdev33/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/PrinceAppdev33/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/PrinceAppdev33/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -457,6 +460,7 @@
 | [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/PrinceAppdev33/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PrinceAppdev33/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PrinceAppdev33/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrinceAppdev33/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -553,6 +557,7 @@
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/PrinceAppdev33/DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrinceAppdev33/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrinceAppdev33/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/PrinceAppdev33/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrinceAppdev33/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/PrinceAppdev33/DSA/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Nim Game
