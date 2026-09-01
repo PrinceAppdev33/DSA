@@ -144,6 +144,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/PrinceAppdev33/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PrinceAppdev33/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0624-maximum-distance-in-arrays](https://github.com/PrinceAppdev33/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0658-find-k-closest-elements](https://github.com/PrinceAppdev33/DSA/tree/master/0658-find-k-closest-elements) |
 | [0748-shortest-completing-word](https://github.com/PrinceAppdev33/DSA/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/PrinceAppdev33/DSA/tree/master/0867-transpose-matrix) |
@@ -435,6 +436,7 @@
 | [0242-valid-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/PrinceAppdev33/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/PrinceAppdev33/DSA/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -475,6 +477,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/PrinceAppdev33/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/PrinceAppdev33/DSA/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/PrinceAppdev33/DSA/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/PrinceAppdev33/DSA/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/PrinceAppdev33/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -487,6 +490,7 @@
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/PrinceAppdev33/DSA/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/PrinceAppdev33/DSA/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/PrinceAppdev33/DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -549,6 +553,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/PrinceAppdev33/DSA/tree/master/0658-find-k-closest-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -569,6 +574,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrinceAppdev33/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrinceAppdev33/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/PrinceAppdev33/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/PrinceAppdev33/DSA/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/PrinceAppdev33/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/PrinceAppdev33/DSA/tree/master/1052-grumpy-bookstore-owner) |
