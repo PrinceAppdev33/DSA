@@ -108,6 +108,7 @@
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/PrinceAppdev33/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1417-reformat-the-string](https://github.com/PrinceAppdev33/DSA/tree/master/1417-reformat-the-string) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/PrinceAppdev33/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1540-can-convert-string-in-k-moves](https://github.com/PrinceAppdev33/DSA/tree/master/1540-can-convert-string-in-k-moves) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/PrinceAppdev33/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PrinceAppdev33/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -417,6 +418,7 @@
 | [0763-partition-labels](https://github.com/PrinceAppdev33/DSA/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/PrinceAppdev33/DSA/tree/master/0948-bag-of-tokens) |
 | [1386-cinema-seat-allocation](https://github.com/PrinceAppdev33/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/PrinceAppdev33/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/PrinceAppdev33/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrinceAppdev33/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/PrinceAppdev33/DSA/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -445,6 +447,7 @@
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/PrinceAppdev33/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1288-remove-covered-intervals](https://github.com/PrinceAppdev33/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/PrinceAppdev33/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrinceAppdev33/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2578-split-with-minimum-sum](https://github.com/PrinceAppdev33/DSA/tree/master/2578-split-with-minimum-sum) |
