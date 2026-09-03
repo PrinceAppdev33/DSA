@@ -31,6 +31,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/PrinceAppdev33/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1399-count-largest-group](https://github.com/PrinceAppdev33/DSA/tree/master/1399-count-largest-group) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PrinceAppdev33/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1540-can-convert-string-in-k-moves](https://github.com/PrinceAppdev33/DSA/tree/master/1540-can-convert-string-in-k-moves) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/PrinceAppdev33/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/PrinceAppdev33/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -177,6 +178,7 @@
 | [1386-cinema-seat-allocation](https://github.com/PrinceAppdev33/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrinceAppdev33/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PrinceAppdev33/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/PrinceAppdev33/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1563-stone-game-v](https://github.com/PrinceAppdev33/DSA/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrinceAppdev33/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -474,6 +476,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/PrinceAppdev33/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/PrinceAppdev33/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PrinceAppdev33/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrinceAppdev33/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/PrinceAppdev33/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/PrinceAppdev33/DSA/tree/master/2007-find-original-array-from-doubled-array) |
