@@ -1,28 +1,30 @@
 class Solution {
 public:
     int ladderLength(string bg, string end, vector<string>& w) {
+        map<string,int>mpp,vis;
+        for(int i=0;i<w.size();i++){
+            mpp[w[i]]++;
+        }
         queue<pair<string,int>>q;
-        map<string,int>mpp;
-        int n = w.size();
-        for(int i=0;i<n;i++) mpp[w[i]] = 1;
         q.push({bg,1});
+        vis[bg] = 1;
         while(!q.empty()){
             string cur = q.front().first;
             int cnt = q.front().second;
             q.pop();
             if(cur == end) return cnt;
             for(int i=0;i<cur.size();i++){
-                for(char ch = 'a'; ch<='z';ch++){
-                    if(ch == cur[i]) continue;
-                    string op = cur;
-                    op[i] = ch;
-                    if(mpp.find(op) != mpp.end() && mpp[op]==1){
-                        q.push({op,cnt+1});
-                        mpp[op] = 2;
-                    } 
+                for(char ch='a'; ch<='z'; ch++){
+                    string ans = cur;
+                    ans[i] = ch;
+                    if(mpp.find(ans) != mpp.end() && vis[ans]<1){
+                        vis[ans] = 1;
+                        q.push({ans,cnt+1});
+                    }
                 }
-            }
+            }  
         }
         return 0;
+        
     }
 };
