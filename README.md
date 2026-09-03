@@ -95,6 +95,7 @@
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/PrinceAppdev33/DSA/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrinceAppdev33/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/PrinceAppdev33/DSA/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/PrinceAppdev33/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrinceAppdev33/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
