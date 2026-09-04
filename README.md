@@ -30,6 +30,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrinceAppdev33/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1370-increasing-decreasing-string](https://github.com/PrinceAppdev33/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1386-cinema-seat-allocation](https://github.com/PrinceAppdev33/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1399-count-largest-group](https://github.com/PrinceAppdev33/DSA/tree/master/1399-count-largest-group) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PrinceAppdev33/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -119,6 +120,7 @@
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/PrinceAppdev33/DSA/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/PrinceAppdev33/DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1370-increasing-decreasing-string](https://github.com/PrinceAppdev33/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1417-reformat-the-string](https://github.com/PrinceAppdev33/DSA/tree/master/1417-reformat-the-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/PrinceAppdev33/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1540-can-convert-string-in-k-moves](https://github.com/PrinceAppdev33/DSA/tree/master/1540-can-convert-string-in-k-moves) |
@@ -251,6 +253,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/PrinceAppdev33/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1370-increasing-decreasing-string](https://github.com/PrinceAppdev33/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1399-count-largest-group](https://github.com/PrinceAppdev33/DSA/tree/master/1399-count-largest-group) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PrinceAppdev33/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2029-stone-game-ix](https://github.com/PrinceAppdev33/DSA/tree/master/2029-stone-game-ix) |
