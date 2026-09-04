@@ -107,6 +107,7 @@
 | [0049-group-anagrams](https://github.com/PrinceAppdev33/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/PrinceAppdev33/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/PrinceAppdev33/DSA/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/PrinceAppdev33/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PrinceAppdev33/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrinceAppdev33/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -305,6 +306,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PrinceAppdev33/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0623-add-one-row-to-tree) |
@@ -337,6 +339,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PrinceAppdev33/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PrinceAppdev33/DSA/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0623-add-one-row-to-tree) |
@@ -375,6 +378,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PrinceAppdev33/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/PrinceAppdev33/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/PrinceAppdev33/DSA/tree/master/0623-add-one-row-to-tree) |
@@ -592,6 +596,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/PrinceAppdev33/DSA/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrinceAppdev33/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
 |  |
