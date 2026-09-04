@@ -29,6 +29,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/PrinceAppdev33/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrinceAppdev33/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrinceAppdev33/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/PrinceAppdev33/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1399-count-largest-group](https://github.com/PrinceAppdev33/DSA/tree/master/1399-count-largest-group) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PrinceAppdev33/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -177,6 +178,7 @@
 | [1288-remove-covered-intervals](https://github.com/PrinceAppdev33/DSA/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/PrinceAppdev33/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrinceAppdev33/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/PrinceAppdev33/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/PrinceAppdev33/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrinceAppdev33/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -482,6 +484,7 @@
 | [1288-remove-covered-intervals](https://github.com/PrinceAppdev33/DSA/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/PrinceAppdev33/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/PrinceAppdev33/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrinceAppdev33/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/PrinceAppdev33/DSA/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PrinceAppdev33/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrinceAppdev33/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -719,4 +722,8 @@
 |  |
 | ------- |
 | [1362-closest-divisors](https://github.com/PrinceAppdev33/DSA/tree/master/1362-closest-divisors) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrinceAppdev33/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
